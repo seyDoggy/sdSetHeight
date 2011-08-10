@@ -1,8 +1,8 @@
-# sdVertAlign #
+# sdSetHeight #
 **AUTHOR:	Adam Merrifield**   
 **VERSION: 1.1.0**   
 
-## About sdVertAlign ##
+## About sdSetHeight ##
 
 This little plugin checks the height of a child element or an array of child elements and compares it it with the parent and sets the height of the parent element to match. Alternatively, it can be used to compare an array of elements agains themselves to set said elements to the same height.
 
